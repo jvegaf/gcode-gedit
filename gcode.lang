@@ -22,7 +22,7 @@
 <language id="gcode" _name="Gcode" version="2.0" _section="Others">
 	<metadata>
 		<property name="mimetypes"></property>
-		<property name="globs">*.nc;*.ngc</property>
+		<property name="globs">*.nc;*.ngc;*.g;*.gco;*.gcode</property>
 		<property name="block-comment-start">(</property>
 		<property name="block-comment-end">)</property>
 	</metadata>
