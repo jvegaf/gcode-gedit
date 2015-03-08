@@ -7,6 +7,6 @@ gcode.lang file source: http://cnc-club.ru/forum/viewtopic.php?f=33&t=80&sid=b6a
 ## Screenshots
 
 * Running on ubuntu 14.10:
-<img src="images/gedit-gcode-screenshot-1.png" width="400" align="center">
+<img src="images/gedit-gcode-screenshot-1.png" width="400" align="left">
 
 
